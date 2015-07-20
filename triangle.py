@@ -1,5 +1,4 @@
-#fullList contains all values, tempList will be used to insert each row in fullList
-tempList = []
+#variable that will contain all variables in the number pyramid
 fullList = []
 
 #open file with number pyramid
